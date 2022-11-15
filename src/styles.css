@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: grey;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 2rem;
+}
+button {
+    margin:2rem;
+    padding:1rem 2rem;
+    width: 120px;
+    cursor:pointer;
+}
+
+img {
+    width: 150px;
+
+}
